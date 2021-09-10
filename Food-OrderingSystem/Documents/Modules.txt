@@ -1,0 +1,15 @@
+-------------------------------FOOD ORDERING SYSTEM--------------------------
+1.LOGIN
+2.REGISTER
+3.Restuarents
+4.Food List
+5.Cart
+6.Payment,feedback
+
+
+---Models---
+1,users
+2,Hotels
+3,Food Lists
+4,order List
+5,payment Details
