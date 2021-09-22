@@ -1,0 +1,39 @@
+{
+   "data":[
+      {
+         "param":"host",
+         "types":"text",
+         "displayName":"Host"
+      },
+      {
+         "param":"type",
+         "types":"text",
+         "displayName":"Type"
+      },
+      {
+         "param":"message.fileName",
+         "types":"text",
+         "displayName":"File Name"
+      },
+      {
+         "param":"message.message",
+         "types":"text",
+         "displayName":"Error Text"
+      },
+      {
+         "param":"message.time",
+         "types":"date",
+         "displayName":"Time"
+      },
+      {
+         "param":"message.lineNumber",
+         "types":"number",
+         "displayName":"Line Number"
+      },
+      {
+         "param":"message.priorityLevel",
+         "types":"text",
+         "displayName":"Priority Level"
+      }
+   ]
+}

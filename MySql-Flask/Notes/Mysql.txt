@@ -1,0 +1,19 @@
+flask rest
+https://flask-restful.readthedocs.io/en/latest/
+
+flask API REF1
+https://dev.to/nahidsaikat/flask-with-sqlalchemy-marshmallow-5aj2
+
+flask API REF2
+https://www.nintyzeros.com/2019/11/flask-mysql-crud-restful-api.html?m=1
+
+OTHER REFER
+-->https://www.section.io/engineering-education/flask-crud-api/
+-->https://www.analyticssteps.com/blogs/working-python-json-object
+-->https://towardsdatascience.com/8-common-data-structures-every-programmer-must-know-171acf6a1a42
+
+Marshmallow-lib
+https://blog.knoldus.com/marshmallow-easy-serialization-in-python/
+
+serialization
+https://www.tutorialspoint.com/object_oriented_python/object_oriented_python_serialization.htm

@@ -1,0 +1,26 @@
+
+Marshmallow: Easy Serialization in Python
+
+--> Marshmallow, stylized as “marshmallow”, is an object-relational mapping library
+    which is used to convert objects to and from Python data types.
+
+--> It is often used alongside SQLAlchemy, an ORM that maps database schemas to Python objects.
+
+--> Marshmallow is often used to deserialize Python dicts to SQLAlchemy models and vice versa.
+
+
+Serialization
+
+serialization is the process of translating data structures or object state into a 
+format that can be stored (for example, in a file or memory buffer) or transmitted
+and reconstructed later.
+Ex:Translate JSON  data structure to table data structure. 
+
+Deserialization
+
+In serialization, an object is transformed into a format that can be stored, so as
+to be able to deserialize it later and recreate the original object from the serialized format.
+Ex:Translate table data structure to JSON  data structure.
+
+json.dumps = convert python object into Json object
+json.loads = convert Json object into python object
